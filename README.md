@@ -37,9 +37,9 @@ including PROCHOT and power/thermal/current throttle reasons.
 
 -   Windows
 -   Python 3
--   Prime95 installed at `C:\Prime95\prime95.exe`
--   HWiNFO64 installed
--   HWiNFO **Shared Memory Support** enabled
+-   [Prime95](https://www.mersenne.org/download/) installed at `C:\Prime95\prime95.exe`
+-   [HWiNFO64](https://www.hwinfo.com/download/) installed
+-   [HWiNFO **Shared Memory Support**](https://www.hwinfo.com/forum/threads/shared-memory-support-i-cant-find.7286/) enabled
 -   HWiNFO sensor names compatible with the mappings above
 
 The script uses Python's standard library only; no API keys, cloud
